@@ -1,3 +1,1 @@
-# References
-
-* octocat 1 😈
+The quick brown fox doesn't like conflict
